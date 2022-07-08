@@ -1,0 +1,3 @@
+He is a smart boy
+This is a test for mapreduce
+test the number of is
